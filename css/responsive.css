@@ -1,0 +1,45 @@
+
+@media (max-width: 575.98px) { 
+.banner_three {
+    padding: 200px 0 !important;
+  }
+  
+  .banner_one {
+    padding: 200px 0 !important;
+  }
+  
+  .banner_two {
+    padding: 200px 0 !important;
+  }
+  
+  #banner h1 {
+    font-size: 21px !important;
+    padding-bottom: 11px !important;
+  }
+  
+  #banner h2 {
+    font-size: 44px !important;
+    line-height: 43px !important;
+  }
+  
+  .after {
+    padding-bottom: 8px !important;
+  }
+  
+  #banner a {
+    margin-top: 25px !important;
+    padding: 11px 25px !important;
+    font-size: 12px !important;
+  }
+  
+  .next {
+    background-color: transparent;
+    color: transparent;
+  }
+  
+  .prev {
+    background-color: transparent;
+    color: transparent;
+  }
+  
+ }
